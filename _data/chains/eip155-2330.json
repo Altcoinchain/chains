@@ -14,7 +14,7 @@
   "infoURL": "https://altcoinchain.org",
   "shortName": "alt",
   "chainId": 2330,
-  "networkId": 2330,
+  "networkId": 2330, //check if this need to still be 12345 or if can be changed with chainConfig.ChainID_ALT
   "icon": "altcoinchain",
   "status": "incubating",
   "explorers": [{
